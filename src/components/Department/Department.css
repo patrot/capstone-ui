@@ -1,0 +1,15 @@
+.Department {
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.Department:hover,
+.Department:active {
+    background-color: #C0DDF5;
+}
